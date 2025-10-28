@@ -76,14 +76,14 @@ Java/Spring/Spring Boot/SQL을 중심으로 공부하고 웹 개발 중입니다
 <tr>
   <td>Lu:meet</td>
   <td>피드기반 SNS형 레시피 정보 웹서비스</td>
-  <td>[Lu:meet 최종보고서](https://github.com/white-melody/LU-meet)
-  </td>
+  <td>https://github.com/white-melody/LU-meet</td>
 </tr>
 <tr>
   <td>RecipeCode</td>
   <td>CRUD기반 요리 레시피 정보 제공 웹서비스</td>
-  <td>[**RecipeCode 최종보고서**](https://github.com/white-melody/CodeRecipe)</td>
+  <td>https://github.com/white-melody/CodeRecipe</td>
 </tr>
+</table>
 <!--
 ## 핵심 역량
 
