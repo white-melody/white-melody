@@ -6,7 +6,7 @@
 -->
 
 ## INFO
-
+Java/Spring/Spring Boot/SQL을 중심으로 공부하고 웹 개발 중입니다
 - **EMAIL** leetonny@naver.com
 - **한국해양대학교 물류시스템공학과** 졸업 (2016.03 ~ 2023.02)
 - **KH정보교육원** 자바 기반 공공데이터 융합 개발자 양성과정 수료
@@ -23,9 +23,10 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C4043?style=for-the-badge&logo=oauth&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-000000?style=for-the-badge&logo=querydsl&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </td>
 <td valign="top" width="50%">
 
@@ -33,7 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=jsp&logoColor=white)
 </td>
 </tr>
 <tr>
@@ -49,15 +51,38 @@
 <td valign="top" width="50%">
 
 ### API & Tools
-![OAuth2](https://img.shields.io/badge/OAuth2-3C4043?style=for-the-badge&logo=oauth&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
 </td>
 </tr>
 </table>
 
+## Contact
+Notion : https://www.notion.so/IT-28e6b33d672080b8819be41168455cf4?source=copy_link
+Portpolio : https://docs.google.com/document/d/1mQ06BSX3KejAqRwMP9CpfC9FUDRUlQiY/edit?usp=drive_link&ouid=113279881776867822663&rtpof=true&sd=true
 
 
+## Project
+<table>
+<tr>
+  <td>프로젝트명</td>
+  <td>설명</td>
+  <td>링크</td>
+</tr>
+<tr>
+  <td>Lu:meet</td>
+  <td>피드기반 SNS형 레시피 정보 웹서비스</td>
+  <td>https://github.com/white-melody/LU-meet</td>
+</tr>
+<tr>
+  <td>RecipeCode</td>
+  <td>CRUD기반 요리 레시피 정보 제공 웹서비스</td>
+  <td>https://github.com/white-melody/RecipeCode</td>
+</tr>
 <!--
 ## 핵심 역량
 
