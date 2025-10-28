@@ -62,8 +62,8 @@ Java/Spring/Spring Boot/SQL을 중심으로 공부하고 웹 개발 중입니다
 </table>
 
 ## Contact
-Notion : https://www.notion.so/IT-28e6b33d672080b8819be41168455cf4?source=copy_link
-Portpolio : https://docs.google.com/document/d/1mQ06BSX3KejAqRwMP9CpfC9FUDRUlQiY/edit?usp=drive_link&ouid=113279881776867822663&rtpof=true&sd=true
+Notion : [이상민의 노션링크](https://www.notion.so/IT-28e6b33d672080b8819be41168455cf4?source=copy_link)
+Portpolio : [이상민의 포트폴리오](https://docs.google.com/document/d/1mQ06BSX3KejAqRwMP9CpfC9FUDRUlQiY/edit?usp=drive_link&ouid=113279881776867822663&rtpof=true&sd=true)
 
 
 ## Project
@@ -76,12 +76,12 @@ Portpolio : https://docs.google.com/document/d/1mQ06BSX3KejAqRwMP9CpfC9FUDRUlQiY
 <tr>
   <td>Lu:meet</td>
   <td>피드기반 SNS형 레시피 정보 웹서비스</td>
-  <td>https://github.com/white-melody/LU-meet</td>
+  <td>[Lu:meet 최종보고서](https://github.com/white-melody/LU-meet)</td>
 </tr>
 <tr>
   <td>RecipeCode</td>
   <td>CRUD기반 요리 레시피 정보 제공 웹서비스</td>
-  <td>https://github.com/white-melody/RecipeCode</td>
+  <td>[RecipeCode 최종보고서](https://github.com/white-melody/CodeRecipe)</td>
 </tr>
 <!--
 ## 핵심 역량
