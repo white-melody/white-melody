@@ -63,7 +63,7 @@ Java/Spring/Spring Boot/SQL을 중심으로 공부하고 웹 개발 중입니다
 
 ## Contact
 - Notion : [이상민의 노션링크](https://www.notion.so/IT-28e6b33d672080b8819be41168455cf4?source=copy_link)
-- Portpolio : [이상민의 포트폴리오](https://docs.google.com/document/d/1mQ06BSX3KejAqRwMP9CpfC9FUDRUlQiY/edit?usp=drive_link&ouid=113279881776867822663&rtpof=true&sd=true)
+- Portpolio : [이상민의 포트폴리오](https://docs.google.com/document/d/102sPw3vYW6IAmaiDUCvCmp4thj0fA3CI/edit?usp=drive_link&ouid=113279881776867822663&rtpof=true&sd=true)
 
 
 ## Project
